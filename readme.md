@@ -12,7 +12,7 @@
 
 ## デモ
 
-[デモページ](http://)
+[デモページ](https://tachypochy.github.io/jqSelectableBlock/demo.html )
 
 ## 初期化
 
